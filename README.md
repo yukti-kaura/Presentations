@@ -1,7 +1,6 @@
 # Presentations
 ## Knowledge Sharing Sessions
 
-_Sno_	_Topic_	_Presenter_	_Date_	_Presentation_ _Link/Attachment_
 
 1	Machine Learning	Yukti Kaura	5/4/2016	
 
